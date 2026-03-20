@@ -14,3 +14,7 @@ O(N)
 
 ### Reflection
 I learned how heaps are useful for efficiently retrieving top elements.
+
+## Screenshot
+![alt text](Images/P6.png)
+

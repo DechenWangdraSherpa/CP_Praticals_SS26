@@ -15,3 +15,6 @@ O(N)
 
 ### Reflection
 This problem taught me how sorting helps simplify duplicate removal.
+
+## Screenshot
+![alt text](Images/P3.png)

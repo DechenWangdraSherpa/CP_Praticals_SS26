@@ -14,3 +14,6 @@ O(1)
 
 ### Reflection
 I learned how to apply conditions on subsets generated via bitmasking.
+
+## Screenshot
+![alt text](Images/P9.png)

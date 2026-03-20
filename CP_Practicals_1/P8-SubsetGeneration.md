@@ -14,3 +14,6 @@ O(1)
 
 ### Reflection
 I learned how bitmasking represents subsets efficiently.
+
+## Screenshot
+![alt text](Images/P8.png)

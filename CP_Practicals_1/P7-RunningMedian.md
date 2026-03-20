@@ -14,3 +14,6 @@ O(N)
 
 ### Reflection
 This problem helped me understand balancing two heaps for real-time median.
+
+## Screenshot
+![alt text](Images/P7.png)

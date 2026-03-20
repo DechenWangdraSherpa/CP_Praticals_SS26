@@ -14,3 +14,6 @@ O(N)
 
 ### Reflection
 I learned how to traverse arrays in reverse without modifying the original structure.
+
+## Screenshot
+![alt text](Images/P2.png)

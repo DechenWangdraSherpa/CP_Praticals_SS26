@@ -14,3 +14,7 @@ O(N)
 
 ### Reflection
 This problem helped me understand real-world usage of deque.
+
+## Screenshot
+![alt text](Images/P5.png)
+

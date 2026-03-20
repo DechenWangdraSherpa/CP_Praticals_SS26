@@ -14,3 +14,6 @@ O(1)
 
 ### Reflection
 This problem helped me understand subset sum brute force using bitmasking.
+
+## Screenshot
+![alt text](Images/P10.png)

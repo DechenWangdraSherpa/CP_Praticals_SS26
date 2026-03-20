@@ -15,3 +15,6 @@ O(N)
 
 ### Reflection
 This problem helped me understand how vectors work and how to efficiently compute multiple values in a single traversal.
+
+## Screenshot
+![alt text](Images/P1.png)

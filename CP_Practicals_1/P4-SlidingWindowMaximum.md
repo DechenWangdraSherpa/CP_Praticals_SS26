@@ -14,3 +14,6 @@ O(K)
 
 ### Reflection
 I learned how deque can optimize sliding window problems from O(NK) to O(N).
+
+## Screenshot
+![alt text](Images/P4.png)
