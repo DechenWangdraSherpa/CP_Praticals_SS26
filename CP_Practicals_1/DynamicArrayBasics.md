@@ -1,3 +1,5 @@
+# Problem 1 (Dynamic Array Basics)
+
 ### Problem Summary
 Store N integers using a dynamic array and compute max, min, and sum.
 

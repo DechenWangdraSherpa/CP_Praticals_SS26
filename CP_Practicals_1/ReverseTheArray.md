@@ -1,3 +1,5 @@
+# Problem 2 (Reverse the Array)
+
 ### Problem Summary
 Print array elements in reverse order.
 

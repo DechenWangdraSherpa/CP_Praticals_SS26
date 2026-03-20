@@ -1,3 +1,5 @@
+# Problem 3 (Remove Duplicates)
+
 ### Problem Summary
 Remove duplicate elements and print unique values.
 
