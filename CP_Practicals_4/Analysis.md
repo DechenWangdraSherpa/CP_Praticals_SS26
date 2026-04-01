@@ -98,7 +98,7 @@ Need minimum spanning tree?          →  Borůvka's (or Kruskal's for simplicit
 
 ---
 
-## The one-line summary of each
+## The summary of each
 
 - **Floyd-Warshall** — brute force all pairs, simple but slow on big graphs
 - **Johnson's** — clever re-weighting trick to run Dijkstra on graphs with negative edges
