@@ -27,4 +27,4 @@ Working on these three algorithms was really interesting. At first, I thought th
 
 ### Final Thoughts
 
-Each algorithm has its strength. Trie is good when you need to store many words. PATRICIA uses less memory. Manacher's is the best way to find palindromes. Now I understand when to use each one instead of just knowing they exist. 
+Each algorithm has its strength. Trie is good when you need to store many words. PATRICIA uses less memory. Manacher's is the best way to find palindromes. 
